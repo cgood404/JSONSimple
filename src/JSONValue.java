@@ -5,5 +5,4 @@ public class JSONValue {
     public static final int JSONNumber = 3;
     public static final int JSONBool = 4;
 
-
 }
