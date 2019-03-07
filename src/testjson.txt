@@ -1,0 +1,22 @@
+{
+    "testnum": 1,
+    "teststring": "test",
+    "testbool": true,
+    "testarray": [
+        0,
+        "ttt",
+        true,
+        {
+            "nested": true
+        },
+        [
+            1,
+            2
+        ]
+    ]
+    "testobj": {
+        "nestednum": 1,
+        "nestedbool": true
+    }
+
+}
